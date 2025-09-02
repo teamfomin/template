@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "title": "CK22 Casino | Slots, Live Tables & Bonuses on App",
+    "description": "Play at CK22 Casino and enjoy 300+ slots, live dealer tables, and crash games. Fast bKash deposits, instant payouts, and exclusive rewards await on the CK22 app for Bangladesh.",
+    "keywords": "ck22, ck22 app, ck22 casino, online casino Bangladesh, ck22 bonus, bkash casino"
+  },
+  "hero": {
+    "pretitle": {
+      "btnText": "Join CK22 Today",
+      "text": "Bangladesh’s Favorite Casino"
+    },
+    "title": "CK22 Casino - <strong>Your Ultimate Gaming Hub</strong>",
+    "descr": "Step inside CK22 to discover a powerful mix of high-volatility slots, immersive live dealer games, and thrilling crash titles. Our CK22 app brings lightning-fast gameplay and instant cash-outs directly to your phone, backed by 24/7 Bangla support and secure bKash payments.",
+    "actionBtn": "Play Now on CK22",
+    "specialBtn": "Download APK",
+    "advents": [
+      { "numb": "500K+", "label": "Local Players" },
+      { "numb": "Instant", "label": "Payouts" },
+      { "numb": "300+", "label": "Casino Games" }
+    ],
+    "pictureSrc": "/img/page_casino_hero.jpg",
+    "pictureAlt": "Roulette wheel, poker chips and cards forming CK22 logo"
+  },
+  "sections": [
+    {
+      "id": "sec-01",
+      "type": "content",
+      "name": "Welcome to CK22 - Made for Bangladeshi Gamers",
+      "paragraphs": [
+        "CK22 blends world-class entertainment with local convenience, giving Bangladeshi players a seamless path from sign-up to cash-out. Our clean interface guides you straight to the games you love while robust encryption keeps every transaction protected.",
+        "Whether you spin classic three-reel fruit machines or hunt megaways jackpots, each title is hand-picked from leading studios to guarantee fairness, crisp visuals, and engaging bonus mechanics that stay fresh session after session.",
+        "Live-streamed baccarat and roulette tables put you face-to-face with professional dealers, all optimized for low latency on the CK22 app so you never miss a bet even on slower data connections.",
+        "Responsible play is built into our DNA. Custom deposit limits, session timers, and quick self-exclusion tools empower you to enjoy CK22 Casino safely while our multilingual support team remains on call around the clock."
+      ],
+      "actions": [
+        {
+          "link": "ownLink",
+          "text": "Explore Games"
+        }
+      ]
+    },
+    {
+      "id": "sec-02",
+      "type": "content",
+      "name": "Explore Our Game Categories",
+      "paragraphs": [
+        "From adrenaline-pumping crash titles to traditional table classics, CK22 Casino delivers a library that satisfies every mood. Browse the highlights below, then tap the CK22 app to dive in."
+      ],
+      "cards": [
+        {
+          "iconHTML": "🎰",
+          "title": "Video Slots",
+          "paragraphs": [
+            "Spin blockbuster releases and timeless fruits with dynamic paylines, cascading reels, and buy-bonus functions ready to trigger wins in a flash."
+          ]
+        },
+        {
+          "iconHTML": "🃏",
+          "title": "Live Casino",
+          "paragraphs": [
+            "Chat with real dealers as you place chips on roulette, blackjack, and baccarat tables streamed in HD directly to your desktop or mobile."
+          ]
+        },
+        {
+          "iconHTML": "🚀",
+          "title": "Crash Games",
+          "paragraphs": [
+            "Predict the multiplier, cash out at the perfect moment, and watch your Taka soar. Fast rounds and social leaderboards keep excitement sky-high."
+          ]
+        },
+        {
+          "iconHTML": "⚽",
+          "title": "Sportsbook",
+          "paragraphs": [
+            "Bet pre-match or live on cricket, football, and more with competitive odds and instant settlement straight into your CK22 wallet."
+          ]
+        },
+        {
+          "iconHTML": "🎟️",
+          "title": "Lottery & Keno",
+          "paragraphs": [
+            "Quick-fire number draws every few minutes offer bite-sized thrills and flexible stake sizes perfect for casual breaks."
+          ]
+        }
+      ],
+      "pictureSrc": "/img/page_casino_categories.jpg",
+      "pictureAlt": "Young woman celebrating slot win inside luxurious casino hall",
+      "actions": [
+        {
+          "link": "ownLink",
+          "text": "Browse Full Library"
+        }
+      ]
+    },
+    {
+      "id": "sec-03",
+      "type": "content",
+      "name": "Why Bangladeshi Players Trust CK22",
+      "paragraphs": [
+        "Local payment integration sets CK22 apart. We process bKash, Nagad, and Rocket deposits instantly, while withdrawals land back in your wallet in minutes thanks to fully automated KYC verification.",
+        "The CK22 app is engineered for low-bandwidth environments. Our proprietary Smart-Buffer™ technology compresses video streams without sacrificing quality, ensuring fluid play even on 3G networks common across rural Bangladesh.",
+        "Every game on CK22 holds a certified RNG or live-dealer license from reputable authorities, and independent auditors publish monthly RTP reports so you can verify fairness at a glance."
+      ],
+      "actions": [
+        {
+          "link": "ownLink",
+          "text": "Create Free Account"
+        }
+      ]
+    },
+    {
+      "id": "sec-04",
+      "type": "content",
+      "name": "Bonuses & Promotions on CK22 Casino",
+      "paragraphs": [
+        "New members kick off with a 100 % match up to ৳20,000 plus 100 free spins, credited automatically after your first deposit on the CK22 app. Wagering terms remain transparent and easy to track from your profile dashboard.",
+        "Weekly reloads add 50 % extra funds every Monday, cushioning your balance for the week ahead, while Friday Happy Hours double loyalty points earned in slots, speeding your climb through our six-tier VIP ladder.",
+        "For high-rollers, personalized cashback up to 20 % unlocks each Sunday, calculated on net losses and paid in real cash—not bonus credits—ready for instant withdrawal."
+      ],
+      "pictureSrc": "/img/page_casino_promotions.jpg",
+      "pictureAlt": "Bangladeshi gamer holding phone with CK22 bonus screen illuminated",
+      "actions": [
+        {
+          "link": "ownLink",
+          "text": "Claim My Bonus"
+        }
+      ]
+    },
+    {
+      "id": "sec-05",
+      "type": "content",
+      "name": "Getting Started on the CK22 App",
+      "paragraphs": [
+        "Launching your first game takes less than five minutes. Follow the steps below and enjoy seamless play whenever inspiration strikes."
+      ],
+      "cards": [
+        {
+          "iconHTML": "⬇️",
+          "title": "Download",
+          "paragraphs": [
+            "Tap the APK link or scan our QR code to install the CK22 app directly—no Play Store delays, full security certificates included."
+          ]
+        },
+        {
+          "iconHTML": "📝",
+          "title": "Register",
+          "paragraphs": [
+            "Create a free account with your Bangladeshi mobile number. SMS verification activates instant access and protects your profile."
+          ]
+        },
+        {
+          "iconHTML": "💳",
+          "title": "Deposit",
+          "paragraphs": [
+            "Choose bKash, Nagad, or Rocket, enter the desired amount, and watch it appear in your balance within seconds—fee-free, every time."
+          ]
+        },
+        {
+          "iconHTML": "🎮",
+          "title": "Play & Win",
+          "paragraphs": [
+            "Navigate to Slots, Live Casino, or Sportsbook, place your first wager, and experience blazing-fast gameplay designed for Bangladeshi networks."
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "link": "ownLink",
+          "text": "Install CK22 App"
+        }
+      ]
+    }
+  ]
+}
