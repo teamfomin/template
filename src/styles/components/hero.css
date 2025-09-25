@@ -1,0 +1,15 @@
+.hero {
+  margin-bottom: 1rem;
+  padding: 1rem;
+
+  display: flex;
+}
+
+.hero__title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.hero__text {
+  font-size: 1.5rem;
+}
